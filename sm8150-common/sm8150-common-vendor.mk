@@ -927,7 +927,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
-    NxpNfcNci \
     QtiTelephonyService \
     WfdService \
     ims \
